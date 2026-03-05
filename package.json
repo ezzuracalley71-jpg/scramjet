@@ -119,5 +119,7 @@
 		"idb": "^8.0.3",
 		"parse-domain": "^8.2.2",
 		"set-cookie-parser": "^2.7.1"
-	}
+	},
+	"packageManager": "pnpm@9.0.0"
 }
+
